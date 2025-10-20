@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head> <title> E-PORTFOLIO </title>
+	<style>
+	h1, p {color: #191970; font-family: Garamond; text-align: center; border-radius: 25px;}
+	.h1p {margin: 15px 45px 15px; border-style: double; border-width: 8px; border-color: #ADD8E6;}
+	.pa {font-size: 40px; padding: 40px 30px 40px; margin: 20px 260px 20px; border-style: ridge; border-width: 8px; border-color: #708090;}
+	hr {background-color: #F0F8FF; height: 10px; border-style: none; border-radius: 30px; margin: 5px 220px 5px;}
+	a:link {color:red;}
+	a:visited {color:black;}
+	a:hover {color:green;}
+	a:active {color:blue;}
+	</style>
+</head>
+
+<body background="curtain.jpg" style="background-repeat: no-repeat; background-size: cover;">
+<h1 style="background-color:#4682B4; font-size: 40px;" class="h1p"> ~&#9830; &#9733; TLE-ICT E-PORTFOLIO &#9733; &#9830;~
+<br>
+Created by: Gabrielle Emeraine L. Franco </h1>
+<p style="background-color:#87CEFA; font-size: 35px;" class="h1p"> &#9733; Hello!! Please click where you want to go: </p>
+
+<hr>
+<p class="pa" style="background-color: #C0C0C0;"> <a href="mypersonalspace.html" target="_self"> &#9829;~My Personal Space </a> </p>
+<hr>
+<p class="pa" style="background-color: #B0C4DE;"> <a href="tleict.html" target="_self" name="tleict"> &#9790;~TLE-ICT </a> </p>
+<hr>
+<p class="pa" style="background-color: #778899;"> <a href="aralingpanlipunan.html" target="_self" name="ap"> &#8356;~Araling Panlipunan </a> </p>
+
+</body>
+</html>
